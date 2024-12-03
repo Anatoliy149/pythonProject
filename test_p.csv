@@ -1,0 +1,64 @@
+user_id,order_id,product_id,product_name,category,price,quantity,date,country,payment_method,is_returning_customer,purchase_value
+1,1001,101,Laptop,Electronics,1200,1,2020-01-15,USA,Credit Card,False,1200
+2,1002,102,Keyboard,Electronics,50,1,2020-01-17,Canada,Debit Card,False,50
+3,1003,103,Mouse,Electronics,20,1,2020-01-18,USA,PayPal,False,20
+4,1004,104,Headphones,Electronics,100,2,2020-01-19,UK,Credit Card,False,200
+5,1005,105,Charger,Electronics,30,1,2020-01-20,Germany,Credit Card,False,30
+6,1006,106,Smartphone,Electronics,800,1,2020-01-21,USA,Credit Card,False,800
+7,1007,107,Tablet,Electronics,400,1,2020-01-22,Canada,Debit Card,False,400
+8,1008,108,Speaker,Electronics,150,1,2020-01-23,USA,PayPal,False,150
+9,1009,109,Monitor,Electronics,250,1,2020-01-24,UK,Credit Card,False,250
+10,1010,110,Webcam,Electronics,50,1,2020-01-25,Germany,Credit Card,False,50
+1,1011,101,Laptop,Electronics,1200,1,2020-02-15,USA,Credit Card,True,1200
+2,1012,102,Keyboard,Electronics,50,1,2020-02-17,Canada,Debit Card,True,50
+3,1013,103,Mouse,Electronics,20,1,2020-02-18,USA,PayPal,True,20
+4,1014,104,Headphones,Electronics,100,2,2020-02-19,UK,Credit Card,True,200
+5,1015,105,Charger,Electronics,30,1,2020-02-20,Germany,Credit Card,True,30
+6,1016,106,Smartphone,Electronics,800,1,2020-02-21,USA,Credit Card,True,800
+7,1017,107,Tablet,Electronics,400,1,2020-02-22,Canada,Debit Card,True,400
+8,1018,108,Speaker,Electronics,150,1,2020-02-23,USA,PayPal,True,150
+9,1019,109,Monitor,Electronics,250,1,2020-02-24,UK,Credit Card,True,250
+10,1020,110,Webcam,Electronics,50,1,2020-02-25,Germany,Credit Card,True,50
+1,1021,101,Laptop,Electronics,1200,1,2020-03-15,USA,Credit Card,True,1200
+2,1022,102,Keyboard,Electronics,50,1,2020-03-17,Canada,Debit Card,True,50
+3,1023,103,Mouse,Electronics,20,1,2020-03-18,USA,PayPal,True,20
+4,1024,104,Headphones,Electronics,100,2,2020-03-19,UK,Credit Card,True,200
+5,1025,105,Charger,Electronics,30,1,2020-03-20,Germany,Credit Card,True,30
+6,1026,106,Smartphone,Electronics,800,1,2020-03-21,USA,Credit Card,True,800
+7,1027,107,Tablet,Electronics,400,1,2020-03-22,Canada,Debit Card,True,400
+8,1028,108,Speaker,Electronics,150,1,2020-03-23,USA,PayPal,True,150
+9,1029,109,Monitor,Electronics,250,1,2020-03-24,UK,Credit Card,True,250
+10,1030,110,Webcam,Electronics,50,1,2020-03-25,Germany,Credit Card,True,50
+1,1031,111,TV,Electronics,1000,1,2020-04-15,USA,Credit Card,True,1000
+2,1032,112,Projector,Electronics,500,1,2020-04-17,Canada,Debit Card,True,500
+3,1033,113,Smartwatch,Electronics,200,1,2020-04-18,USA,PayPal,True,200
+4,1034,114,Drone,Electronics,500,1,2020-04-19,UK,Credit Card,True,500
+5,1035,115,Fitness Tracker,Electronics,100,1,2020-04-20,Germany,Credit Card,True,100
+6,1036,116,Camera,Electronics,300,1,2020-04-21,USA,Credit Card,True,300
+7,1037,117,Action Camera,Electronics,200,1,2020-04-22,Canada,Debit Card,True,200
+8,1038,118,Game Console,Electronics,300,1,2020-04-23,USA,PayPal,True,300
+9,1039,119,Gaming Headset,Electronics,150,1,2020-04-24,UK,Credit Card,True,150
+10,1040,120,VR Headset,Electronics,400,1,2020-04-25,Germany,Credit Card,True,400
+1,1041,111,TV,Electronics,1000,1,2020-05-15,USA,Credit Card,True,1000
+2,1042,112,Projector,Electronics,500,1,2020-05-17,Canada,Debit Card,True,500
+3,1043,113,Smartwatch,Electronics,200,1,2020-05-18,USA,PayPal,True,200
+4,1044,114,Drone,Electronics,500,1,2020-05-19,UK,Credit Card,True,500
+5,1045,115,Fitness Tracker,Electronics,100,1,2020-05-20,Germany,Credit Card,True,100
+6,1046,116,Camera,Electronics,300,1,2020-05-21,USA,Credit Card,True,300
+7,1047,117,Action Camera,Electronics,200,1,2020-05-22,Canada,Debit Card,True,200
+8,1048,118,Game Console,Electronics,300,1,2020-05-23,USA,PayPal,True,300
+9,1049,119,Gaming Headset,Electronics,150,1,2020-05-24,UK,Credit Card,True,150
+10,1050,120,VR Headset,Electronics,400,1,2020-05-25,Germany,Credit Card,True,400
+1,1051,111,TV,Electronics,1000,1,2020-06-15,USA,Credit Card,True,1000
+2,1052,112,Projector,Electronics,500,1,2020-06-17,Canada,Debit Card,True,500
+3,1053,113,Smartwatch,Electronics,200,1,2020-06-18,USA,PayPal,True,200
+4,1054,114,Drone,Electronics,500,1,2020-06-19,UK,Credit Card,True,500
+5,1055,115,Fitness Tracker,Electronics,100,1,2020-06-20,Germany,Credit Card,True,100
+6,1056,116,Camera,Electronics,300,1,2020-06-21,USA,Credit Card,True,300
+7,1057,117,Action Camera,Electronics,200,1,2020-06-22,Canada,Debit Card,True,200
+8,1058,118,Game Console,Electronics,300,1,2020-06-23,USA,PayPal,True,300
+9,1059,119,Gaming Headset,Electronics,150,1,2020-06-24,UK,Credit Card,True,150
+10,1060,120,VR Headset,Electronics,400,1,2020-06-25,Germany,Credit Card,True,400
+1,1061,121,Coffee Maker,Home Appliances,150,1,2020-07-15,USA,Credit Card,True,150
+2,1062,122,Toaster,Home Appliances,50,1,2020-07-17,Canada,Debit Card,True,50
+3,1063,123,Blender,Home Appliances,100,1,2020-07-18,USA,PayPal,True,100
